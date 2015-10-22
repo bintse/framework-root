@@ -13,5 +13,6 @@
   
   <properties>
   	<junit.version>3.8.1</junit.version>
+  	<org.springframework.version>4.0.2</org.springframework.version>
   </properties>
 </project>
